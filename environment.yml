@@ -5,6 +5,7 @@ dependencies:
 - python=3.10
 - bqplot
 - ipycanvas >=0.9.1
+- scipy
 - ipyleaflet
 - ipympl>=0.8.2
 - ipywidgets>=8,<9
