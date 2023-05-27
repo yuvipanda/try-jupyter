@@ -3,9 +3,6 @@ channels:
 - conda-forge
 dependencies:
 - python=3.10
-- mamba
-- pydata-sphinx-theme
-- myst-parser
 - bqplot
 - ipycanvas >=0.9.1
 - ipyleaflet
@@ -16,6 +13,5 @@ dependencies:
 - jupyterlab-language-pack-zh-CN
 - jupyterlab-fasta>=3,<4
 - jupyterlab-geojson>=3,<4
-- jupyterlab-tour
 - jupyterlab-night
 - plotly>=5,<6
